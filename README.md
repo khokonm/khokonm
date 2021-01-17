@@ -7,4 +7,4 @@
 
 👯 I’m looking to collaborate on open source projects.
 
-⚡ Fun fact: Still single just because I'm a coder!
+⚡ Fun fact: Can't Remember Any!
