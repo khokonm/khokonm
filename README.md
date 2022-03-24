@@ -8,3 +8,5 @@
 👯 I’m looking to collaborate on open source projects.
 
 ⚡ Fun fact: Can't Remember Any!
+
+📰 Blog: [Blog Desire](https://www.blogdesire.com)
