@@ -17,5 +17,5 @@ Meet my GitHub pet, who grows with every contribution I make!
 <img
   src="https://render.gitanimals.org/lines/khokonm"
   width="600"
-  height="120"
+  height="320"
 />
