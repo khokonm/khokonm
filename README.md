@@ -13,6 +13,6 @@
 🔹 **Mr. Healer** – A modular healthcare management system  
 
 ## Connect With Me  
-📧 [hello@khokon.dev](mailto:hello@khokon.dev) 
-🌐 [khokon.dev](https://khokon.dev) 
-🐦 [WeekUp](https://khokon.dev/weekup) 
+📧 [hello@khokon.dev](mailto:hello@khokon.dev)   
+🌐 [khokon.dev](https://khokon.dev)   
+🐦 [WeekUp](https://khokon.dev/weekup)   
