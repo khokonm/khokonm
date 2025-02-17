@@ -1,12 +1,18 @@
-### Hi there 👋
+# Hi, I'm Khokon M. 👋  
 
 <!--
 **khokonm/khokonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-📫 How to reach me: hello@khokon.dev
 
-👯 I’m looking to collaborate on open source projects.
+🚀 Founder & Developer at [Zorlen Tech Limited](https://zorlen.com)  
+🌱 Building solutions for businesses, healthcare, and productivity  
+💡 Always exploring new tech & ideas  
 
-⚡ Fun fact: Can't Remember Any!
+## What I'm Working On  
+🔹 **Zorlen Tech** – Software solutions for businesses  
+🔹 **Mr. Healer** – A modular healthcare management system  
 
-📰 Blog: [Blog Desire](https://www.blogdesire.com)
+## Connect With Me  
+📧 [hello@khokon.dev](mailto:hello@khokon.dev) 
+🌐 [khokon.dev](https://khokon.dev) 
+🐦 [WeekUp](https://khokon.dev/weekup) 
