@@ -1,5 +1,7 @@
 ## Hi, I'm Khokon M. 👋  
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=khokonm)
+
 <!--
 **khokonm/khokonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,3 +18,4 @@
 📧 [hello@khokon.dev](mailto:hello@khokon.dev)   
 🌐 [khokon.dev](https://khokon.dev)   
 🐦 [WeekUp](https://khokon.dev/weekup)   
+
