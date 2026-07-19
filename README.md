@@ -12,10 +12,10 @@
 
 ## What I'm Working On  
 🔹 **Zorlen Tech** – Software solutions for businesses  
-🔹 **Mr. Healer** – A modular healthcare management system  
+🔹 **[Wisdomly.co](https://wisdomly.co)   ** – A better feed for productive scrolling.
 
 ## Connect With Me  
 📧 [hello@khokon.dev](mailto:hello@khokon.dev)   
 🌐 [khokon.dev](https://khokon.dev)   
-🐦 [WeekUp](https://khokon.dev/weekup)   
+🐦 [Blog](https://khokon.dev/blog)   
 
