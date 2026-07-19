@@ -12,7 +12,7 @@
 
 ## What I'm Working On  
 🔹 **Zorlen Tech** – Software solutions for businesses  
-🔹 **[Wisdomly.co](https://wisdomly.co)   ** – A better feed for productive scrolling.
+🔹 **[Wisdomly.co](https://wisdomly.co)** – A better feed for productive scrolling.
 
 ## Connect With Me  
 📧 [hello@khokon.dev](mailto:hello@khokon.dev)   
