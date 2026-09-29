@@ -12,7 +12,7 @@
 
 ## What I'm Working On  
 🔹 **Zorlen Tech** – Software solutions for businesses  
-🔹 **[Wisdomly.co](https://wisdomly.co)** – A better feed for productive scrolling.
+🔹 **[Wisdomly.co](https://wisdomly.co)** – A better feed for productive scrolling.  
 🔹 **[Web Lock](https://weblock.site)** – A privacy focused browser extension for password protectig website visits.
 
 ## Connect With Me  
